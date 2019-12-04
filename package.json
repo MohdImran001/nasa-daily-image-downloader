@@ -1,0 +1,19 @@
+{
+  "name": "nasa-api-image-downloader",
+  "version": "1.0.0",
+  "description": "It uses NASA's open API to fetch an awesome image of our universe.",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MohdImran001/nasa-daily-image-downloader.git"
+  },
+  "author": "Mohd Imran",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/MohdImran001/nasa-daily-image-downloader/issues"
+  },
+  "homepage": "https://github.com/MohdImran001/nasa-daily-image-downloader#readme"
+}
