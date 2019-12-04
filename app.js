@@ -1,5 +1,4 @@
 const fs = require('fs');
-const path = require('path');
 const request = require('request');
 
 const apiKey = 'YOUR API KEY'; //check out README.md to get your NASA Open API Key
